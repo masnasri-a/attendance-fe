@@ -2,10 +2,7 @@ import Announ from "@/components/home/announ";
 import Clockin from "@/components/home/clockin";
 import Menu from "@/components/home/menu";
 import Footer from "@/components/menu/footer";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
 import Greeting from "@/lib/greeting";
-import { MdMyLocation } from "react-icons/md";
 
 export default function Home() {
 
